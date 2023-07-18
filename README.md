@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" height="25" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" height="25" />
   </div>
-  <div style="display:'flex';>
+  <div style="display:'flex';">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" height="25" />
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" height="25" />
     <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=React-query&logoColor=white" height="25" />
