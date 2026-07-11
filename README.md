@@ -41,19 +41,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white" height="25" />
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=black" height="25" />
   </div>
-  
-  <h1>Most Used Languages</h1>
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiject&layout=compact">
-  </div>
-  <h1>Github Stats</h1>
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=asiject&show_icons=true">
-  </div>
-  
-  <h1>BOJ rank</h1>
-  <div>
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=asiject" />
-  </div>
 
 </div>
