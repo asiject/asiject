@@ -12,7 +12,6 @@
   <div style="display:'flex';" align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=asiject&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br /><br />
-![](https://streak-stats.demolab.com/?user=asiject&theme=dark&hide_border=false)<br/><br />
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=asiject&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
